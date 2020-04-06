@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584675435 source:c:\users\gmg\documents\programacion c++\estructura de datos\juego scrabble\scrabble\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
